@@ -5,7 +5,7 @@ public class App {
         Task task = new Task("Aprendiendo Java", "Para mejorar mis conocimientos en Java creare el proyecto 'Task Manager'");
     System.out.println(task);
     task.setComplete(true);
-    system.out.println("Despues de completar la tarea: "); 
-    system.out.println(task);  
+    System.out.println("Despues de completar la tarea: "); 
+    System.out.println(task);  
     }
 }
